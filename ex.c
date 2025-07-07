@@ -3,3 +3,4 @@ b.tech
 aiml
 
 amity
+blr
